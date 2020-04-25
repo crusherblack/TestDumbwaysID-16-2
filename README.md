@@ -68,4 +68,4 @@ Kosong
 * Jika sudah berhasil jalan perintah npm run dev
 * Agar aplikasi dapat berjalan ketikkan php artisan serve
 * Jalankan aplikasi pada browser dengan mengcopy link http://127.0.0.1:8000 atau http://localhost:8000
-* Aplikasi ini tidak menggunakan login dah dibuat dan dibuat semirip2nya dengan kebutuhan dan mockup yang diberikan
+* Aplikasi ini tidak menggunakan logi, dibuat semirip2nya dengan kebutuhan dan mockup yang diberikan

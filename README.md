@@ -1,6 +1,6 @@
 # TEST DumbwaysID Batch 16-2
 
-Perkenalkan nama saya Fadhil Darma Putera Zagoto
+Perkenalkan nama saya Fadhil Darma Putera Zagoto CV https://crusherblack.github.io/html-cv/
 
 Berikut jawaban yang bs saya sertakan berdasarkan soal yang telah diberikan
 

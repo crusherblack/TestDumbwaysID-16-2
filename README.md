@@ -55,3 +55,17 @@ Kosong
 ![CRUD Hero](https://github.com/crusherblack/TestDumbwaysID-16-2/blob/master/Bukti%20Hasil%20(Gambar)/4b-3.png)
 
 ![CRUD Role](https://github.com/crusherblack/TestDumbwaysID-16-2/blob/master/Bukti%20Hasil%20(Gambar)/4b-4.png)
+
+## Instalasion Note untuk project soal nomor 4B
+* Buka terminal
+* Clone project ini https://github.com/crusherblack/mobile-ganggu
+* Masuk kedalam direktori tersebut
+* Ketikkan composer install (Pastikan composer sudah terinstall)
+* Karena untuk project ini .env segaja saya upload
+* Buat database bernama mobile-ganggu
+* Import file mobile-ganggu.sql 
+* Masih pada terminal yang sama ketikkan npm install 
+* Jika sudah berhasil jalan perintah npm run dev
+* Agar aplikasi dapat berjalan ketikkan php artisan serve
+* Jalankan aplikasi pada browser dengan mengcopy link http://127.0.0.1:8000 atau http://localhost:8000
+* Aplikasi ini tidak menggunakan login dah dibuat dan dibuat semirip2nya dengan kebutuhan dan mockup yang diberikan

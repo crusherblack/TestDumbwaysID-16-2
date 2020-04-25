@@ -12,29 +12,28 @@ echo "<button type='submit'>Submit</button>";
 
 echo "</form>";
 
-function cetak_gambar($n){    
-    for ((int) $i = 1; $i <= $n; $i++) {
-            for ((int) $j = 1; $j <= $n; $j++) {
-                if ($i === $j || $j === ($n - $i) + 1) {
-                    echo '*';
+function cetak_gambar($n){   //function dijalankan berdasrkan parameter jumlah yang dikirim 
+    for ((int) $i = 1; $i <= $n; $i++) { //lakukan perulangan sebanyak n untuk variable i
+            for ((int) $j = 1; $j <= $n; $j++) { //lakukan perulangan sebanyak n untuk variable j
+                if ($i === $j || $j === ($n - $i) + 1) { //jika variable i dan j sama atau variabel j sama dengan (jumlah - i [sekarang]) + 1 maka
+                    echo '*'; //tampilkan bintang
                 } else {
-                    echo '=';
+                    echo '='; //tampilkan =
                 }
-                echo ' ';
+                echo ' '; //spasi aja
             }
-            echo ' <Br>';
+            echo ' <Br>'; //jika udah loop sebanyak jumlah pindah ke baris baru
         }
 }
 
-if (!empty($_POST)){
-$jumlah = $_POST['qty'];
-	if ($jumlah % 2 !== 0){
+if (!empty($_POST)){ //ngecek ada request post atau tidak
+$jumlah = $_POST['qty']; //jika ada ambil value dari requst qty
+	if ($jumlah % 2 !== 0){ //cek ganjil
     echo cetak_gambar($jumlah);
-	}else {
+	}else { //genap
 		echo "$jumlah Merupakan Bilangan Ganjil / Sorry gak bisa gambar"; 
 	}
-
 }
 else{
-  $jumlah = 0;
+  $jumlah = 0; //0
 }

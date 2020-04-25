@@ -33,4 +33,4 @@ Nomor 4B. Dapat saya jawab link github project https://github.com/crusherblack/m
 
 ## FOTO
 
-![Image description](link-to-image)
+![Image description](https://github.com/crusherblack/TestDumbwaysID-16-2/blob/master/Bukti%20Hasil%20(Gambar)/4b-1.png)

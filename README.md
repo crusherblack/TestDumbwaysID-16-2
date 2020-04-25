@@ -56,7 +56,7 @@ Kosong
 
 ![CRUD Role](https://github.com/crusherblack/TestDumbwaysID-16-2/blob/master/Bukti%20Hasil%20(Gambar)/4b-4.png)
 
-## Instalasion Note untuk project soal nomor 4B
+## Installation Note untuk project soal nomor 4B
 * Buka terminal
 * Clone project ini https://github.com/crusherblack/mobile-ganggu
 * Masuk kedalam direktori tersebut

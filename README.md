@@ -10,7 +10,7 @@ Bahasa pemograman yang saya gunakan dalam test ini adalah php alasannya karena s
 
 Dari membuat Restful API hingga membuat aplikasi fullstack
 
-Untuk jawaban nomor 1-2 kecuali 3 (karena blum saya kerjakan) dapat diujicoba menggunakan http://phptester.net/
+Untuk jawaban nomor 1 & 3 kecuali 2 (karena blum saya kerjakan) dapat diujicoba menggunakan http://phptester.net/
 
 Bukti bahwa jawaban sesuai juga saya sertakan dalam sebuah folder jika bapak/ibuk/abg/kakak berkenan mengecek selain menggunakan tester diatas
 
@@ -61,7 +61,7 @@ Kosong
 * Clone project ini https://github.com/crusherblack/mobile-ganggu
 * Masuk kedalam direktori tersebut
 * Ketikkan composer install (Pastikan composer sudah terinstall)
-* Karena untuk project ini .env segaja saya upload
+* Karena untuk project ini .env sengaja saya upload
 * Buat database bernama mobile-ganggu
 * Import file mobile-ganggu.sql 
 * Masih pada terminal yang sama ketikkan npm install 

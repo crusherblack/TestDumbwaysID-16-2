@@ -54,7 +54,7 @@ Kosong
 
 ![CRUD Hero](https://github.com/crusherblack/TestDumbwaysID-16-2/blob/master/Bukti%20Hasil%20(Gambar)/4b-3.png)
 
-![CRUD Role](https://github.com/crusherblack/TestDumbwaysID-16-2/blob/master/Bukti%20Hasil%20(Gambar)/4b-4.png)
+![CRUD Role](https://github.com/crusherblack/TestDumbwaysID-16-2/blob/master/Bukti%20Hasil%20(Gambar)/4b--4.png)
 
 ## Installation Note untuk project soal nomor 4B
 * Buka terminal

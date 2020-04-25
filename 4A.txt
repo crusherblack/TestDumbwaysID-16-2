@@ -1,0 +1,8 @@
+1. Menampilkan semua hero
+SELECT * from hero
+
+2. Menampilkan hero per role lalu join 
+select role.name as nama_role, hero.name as nama_hero, hero.deskripsi as hero_deskripsi from hero left join role on hero.id_role = role.id
+
+3. Tampilkan details hero (Id dapat diubah)
+select role.name as nama_role, hero.name as nama_hero, hero.deskripsi as hero_deskripsi from hero left join role on hero.id_role = role.id where hero.id = 2

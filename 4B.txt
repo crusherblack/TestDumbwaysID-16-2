@@ -1,0 +1,5 @@
+Aplikasi mobile ganggu dapat diakses di
+
+Menggunakan framework laravel
+Untuk crud sederahana dan relasi
+https://github.com/crusherblack/mobile-ganggu
